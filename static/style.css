@@ -36,3 +36,6 @@ line-height: 30px;
     display:flex;
     align-content:right;
 }
+#nav-bar{
+    cursor: pointer;
+}
